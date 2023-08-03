@@ -45,8 +45,6 @@ Video de los programas en ejecucion
 
 https://youtu.be/-5EFD57l5X8
 
-[![Alt text](https://img.youtube.com/vi/5EFD57l5X8/0.jpg)](https://youtu.be/-5EFD57l5X8)
-
 *[Acceso al proyecto](#acceso-proyecto)
 
 Las siguientes son las credenciales utilizadas para el proyecto.
