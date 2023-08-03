@@ -4,10 +4,17 @@
  */
 package com.mycompany.betplaymvc;
 import java.util.List;
+
 /**
  *
  * @author Harol
  */
+// Politecnico Internacional
+// Programacion I
+// Prof. Harol Torres
+// Harol.Torres@pi.edu.co
+// Ciclo: 27 de Julio, 2023
+
 public class BetPlayView {
     public void displayTeams(List<Team> teams) {
         

@@ -11,6 +11,17 @@ import java.awt.event.ActionListener;
 import java.util.ArrayList;
 import java.util.List;
 
+
+/**
+ *
+ * @author Harol
+ */
+// Politecnico Internacional
+// Programacion I
+// Prof. Harol Torres
+// Harol.Torres@pi.edu.co
+// Ciclo: 27 de Julio, 2023
+
 class Jugador {
     String nombre;
     int edad;

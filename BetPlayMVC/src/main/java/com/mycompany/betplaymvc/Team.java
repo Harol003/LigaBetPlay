@@ -4,10 +4,17 @@
  */
 package com.mycompany.betplaymvc;
 
+
 /**
  *
  * @author Harol
  */
+// Politecnico Internacional
+// Programacion I
+// Prof. Harol Torres
+// Harol.Torres@pi.edu.co
+// Ciclo: 27 de Julio, 2023
+
 public class Team {
     private String name;
     private int matchesPlayed;
