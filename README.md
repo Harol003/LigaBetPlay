@@ -41,6 +41,10 @@ A continuacion pueden descargar los proyectos relacionados en su orden a nivel d
 - Liga Femenina Futbol (Aplicacion que permite ingresar estadisticas de equipos de futbol femenino de colombia)
 - Liga Femenina Futbol GUI (Aplicacion que permite ingresar estadisticas de equipos de futbol femenino de colombia)
 
+Video de los programas en ejecucion
+
+https://youtu.be/-5EFD57l5X8
+
 *[Acceso al proyecto](#acceso-proyecto)
 
 Las siguientes son las credenciales utilizadas para el proyecto.
