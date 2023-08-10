@@ -1,0 +1,46 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'20'
+-sourcepath
+'C:/Users/Harol/OneDrive/Documentos/NetBeansProjects/CampeonatoFutbolApp2/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Harol/OneDrive/Documentos/NetBeansProjects/CampeonatoFutbolApp2/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'CampeonatoFutbolApp2 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'CampeonatoFutbolApp2 1.0-SNAPSHOT API'
+com.mycompany.campeonatofutbolapp2
+'C:/Users/Harol/OneDrive/Documentos/NetBeansProjects/CampeonatoFutbolApp2/src/main/java/com/mycompany/campeonatofutbolapp2/CampeonatoFutbolApp2.java'
+C:\Users\Harol\OneDrive\Documentos\NetBeansProjects\CampeonatoFutbolApp2\src\main\java = 1691519076092
+C:\Users\Harol\OneDrive\Documentos\NetBeansProjects\CampeonatoFutbolApp2\target\site\apidocs\allclasses-index.html = 1691527323525
+C:\Users\Harol\OneDrive\Documentos\NetBeansProjects\CampeonatoFutbolApp2\target\site\apidocs\allpackages-index.html = 1691527323527
+C:\Users\Harol\OneDrive\Documentos\NetBeansProjects\CampeonatoFutbolApp2\target\site\apidocs\copy.svg = 1691527323561
+C:\Users\Harol\OneDrive\Documentos\NetBeansProjects\CampeonatoFutbolApp2\target\site\apidocs\element-list = 1691527323483
+C:\Users\Harol\OneDrive\Documentos\NetBeansProjects\CampeonatoFutbolApp2\target\site\apidocs\help-doc.html = 1691527323553
+C:\Users\Harol\OneDrive\Documentos\NetBeansProjects\CampeonatoFutbolApp2\target\site\apidocs\index-all.html = 1691527323545
+C:\Users\Harol\OneDrive\Documentos\NetBeansProjects\CampeonatoFutbolApp2\target\site\apidocs\index.html = 1691527323549
+C:\Users\Harol\OneDrive\Documentos\NetBeansProjects\CampeonatoFutbolApp2\target\site\apidocs\member-search-index.js = 1691527323533
+C:\Users\Harol\OneDrive\Documentos\NetBeansProjects\CampeonatoFutbolApp2\target\site\apidocs\module-search-index.js = 1691527323529
+C:\Users\Harol\OneDrive\Documentos\NetBeansProjects\CampeonatoFutbolApp2\target\site\apidocs\overview-tree.html = 1691527323514
+C:\Users\Harol\OneDrive\Documentos\NetBeansProjects\CampeonatoFutbolApp2\target\site\apidocs\package-search-index.js = 1691527323530
+C:\Users\Harol\OneDrive\Documentos\NetBeansProjects\CampeonatoFutbolApp2\target\site\apidocs\script.js = 1691527323559
+C:\Users\Harol\OneDrive\Documentos\NetBeansProjects\CampeonatoFutbolApp2\target\site\apidocs\search-page.js = 1691527323567
+C:\Users\Harol\OneDrive\Documentos\NetBeansProjects\CampeonatoFutbolApp2\target\site\apidocs\search.html = 1691527323547
+C:\Users\Harol\OneDrive\Documentos\NetBeansProjects\CampeonatoFutbolApp2\target\site\apidocs\search.js = 1691527323565
+C:\Users\Harol\OneDrive\Documentos\NetBeansProjects\CampeonatoFutbolApp2\target\site\apidocs\stylesheet.css = 1691527323557
+C:\Users\Harol\OneDrive\Documentos\NetBeansProjects\CampeonatoFutbolApp2\target\site\apidocs\tag-search-index.js = 1691527323534
+C:\Users\Harol\OneDrive\Documentos\NetBeansProjects\CampeonatoFutbolApp2\target\site\apidocs\type-search-index.js = 1691527323531
