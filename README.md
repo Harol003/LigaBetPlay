@@ -84,11 +84,15 @@ Creative Commons 4.0
 
 A continuacion algunos proyectos realizados por mis estudiantes aplicados al reto BetPlay APP. 
 
+https://github.com/AlejandroNaviaDev/LaLigaF
 
+https://github.com/Camilorod94/Proyecto-HISTOBET-FEM
 
+https://github.com/davidatian/ProyectoLigaFemDataPro
 
+https://github.com/NicolasOrj/LigaBetPlayFem1
 
-
+https://github.com/NICOLE222215/LIGABETFEM23
 
 
 
